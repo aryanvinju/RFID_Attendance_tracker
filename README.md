@@ -2,6 +2,9 @@
 
 This project uses Arduino and RFID to track attendance and logs data using Python.
 
+<img width="799" height="550" alt="image" src="https://github.com/user-attachments/assets/46532192-0ade-476b-98b5-d73fac7d90b9" />
+
+
 ## Features
 
 * RFID card scanning
